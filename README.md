@@ -32,7 +32,7 @@
 
 1. 克隆项目到本地：
 ```bash
-git clone https://github.com/你的用户名/paper-analyzer.git
+git clone https://github.com/JQR-crbf/AI-Paper-Tools.git
 cd paper-analyzer
 ```
 
